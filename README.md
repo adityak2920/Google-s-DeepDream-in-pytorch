@@ -1,1 +1,11 @@
-# Google-s-Deep-Dream-in-pytrch-
+# Google's DeepDream in pytorch
+
+We train an artificial neural network by showing it millions of training examples and gradually adjusting the network parameters until it gives the classifications we want. The network typically consists of 10-30 stacked layers of artificial neurons. Each image is fed into the input layer, which then talks to the next layer, until eventually the “output” layer is reached. The network’s “answer” comes from this final output layer.
+for the further reading from google ai blog
+https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html
+
+In my code i have just shown a simple representation of deep dream using pytorch here we can add further layers or we can also use some famous 
+architectures such as Alexnet, VGGs, Inception networks but for that we need Computational Power so we can try some of the results(these results are of google) that we can achieve through deepdream are below:
+
+![screen shot 2018-09-23 at 1 04 42 am](https://user-images.githubusercontent.com/35501699/45921110-cf942b00-becc-11e8-99b5-71ba3528832d.png)
+![screen shot 2018-09-23 at 1 05 11 am](https://user-images.githubusercontent.com/35501699/45921111-d02cc180-becc-11e8-9bf2-166fee42c8cf.png)
