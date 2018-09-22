@@ -13,3 +13,5 @@ In my code i have just shown a simple representation of deep dream using pytorch
 Some screenshots from the results of my professor training using the same code but he had trained on GPU are below:
 
 ![screen shot 2018-09-23 at 1 13 39 am](https://user-images.githubusercontent.com/35501699/45921162-f737c300-becd-11e8-9382-707599c28de4.png)
+
+Note: I have trained my model on cpu that's why results are not good so if it's trained on GPU's then it will start showing some preety good results.
