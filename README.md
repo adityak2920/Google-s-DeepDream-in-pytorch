@@ -10,7 +10,7 @@ In my code i have just shown a simple representation of deep dream using pytorch
 ![screen shot 2018-09-23 at 1 05 11 am](https://user-images.githubusercontent.com/35501699/45921111-d02cc180-becc-11e8-9bf2-166fee42c8cf.png)
 
 
-Some screenshots from the results of my professor training using the same code but he had trained on GPU are below:
+Some screenshots from the my results:
 
 ![screen shot 2018-09-23 at 1 13 39 am](https://user-images.githubusercontent.com/35501699/45921162-f737c300-becd-11e8-9382-707599c28de4.png)
 
